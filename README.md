@@ -1,5 +1,7 @@
-<h1 align="center"> Hi, I'm Nicolas 👋 <h1>
-<h2 align="center"> Developer FullStack Laravel </h2>
+<div align="center">
+<h1>Hi, I'm Nicolas 👋<h1>
+<h2> Developer FullStack Laravel </h2>
+</div>
 <h2> Sobre mim: </h2>
 <div>
     <ul>
