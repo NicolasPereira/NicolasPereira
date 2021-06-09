@@ -1,8 +1,8 @@
 <div align="center">
-<h1>Hi, I'm Nicolas 👋<h1>
-<h2> Developer FullStack Laravel </h2>
+    <h3>Hi, I'm Nicolas 👋<h3>
+    <h3> Developer FullStack Laravel </h3>
 </div>
-<h2> Sobre mim: </h2>
+    <h2> Sobre mim: </h2>
 <div>
     <ul>
         <li>
