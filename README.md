@@ -1,6 +1,6 @@
 <div align="center">
     <h3>Hi, I'm Nicolas 👋<h3>
-    <h3> Developer FullStack Laravel </h3>
+    <h3> FullStack Developer</h3>
 </div>
     <h2> Sobre mim: </h2>
 <div>
@@ -12,7 +12,7 @@
             Idade: 21
         </li>
         <li>
-            Localização in: São José dos Campos, Brazil
+            Localização: São José dos Campos, Brazil
         </li>
         <li>
             Univesidade: Ciência da Computação - Universidade Paulista
