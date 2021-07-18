@@ -26,7 +26,7 @@
 <h2> O que estou fazendo no momento? </h2>
 <div>
 <p>
-    Atualmente estou contribuindo para dois projetos open-source : web4noobs e basement-lms! Você pode conferir estes projetos em meus repositórios.
+    Atualmente estou contribuindo para dois projetos open-source : backend4noobs e basement-lms! Você pode conferir estes projetos em meus repositórios.
 </p>
 <p>
     Estou realizando algumas lives na Twitch para estudar junto com o chat e também contribuir para o open-source.
