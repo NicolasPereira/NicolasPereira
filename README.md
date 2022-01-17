@@ -19,7 +19,7 @@
         </li>
         <li>
             Dev Júnior na 
-            <a href="https://ipe.digital/">Ipê Digital</a>
+            <a href="https://www.linkedin.com/company/picpay/">PicPay</a>
         </li>
     <ul>
 </div>
