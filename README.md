@@ -9,7 +9,7 @@
             Nome: Nicolas Pereira
         </li>
         <li>
-            Idade: 22
+            Idade: 23
         </li>
         <li>
             Localização: São José dos Campos, Brazil
@@ -26,17 +26,11 @@
 <h2> O que estou fazendo no momento? </h2>
 <div>
 <p>
-    Atualmente estou contribuindo para dois projetos open-source : backend4noobs e basement-lms! Você pode conferir estes projetos em meus repositórios.
-</p>
-<p>
-    Estou realizando algumas lives na Twitch para estudar junto com o chat e também contribuir para o open-source.
-</p>
-<p>
-    Nos meus estudos estou buscando aprender conceitos importantes e boas práticas de PHP, reforçar minha base de HTML/CSS e por fim aprender sobre Vue.JS para conseguir ter uma boa base para unir Laravel e Vue.JS.
+    Para o ano de 2023 estou estudando os seguintes tópicos: Docker e Kubernets, Banco de Dados NoSQL e Mensageria. Você pode ver meu plano de estudos  <a target='_blank' href="https://nicolaspereirajs.notion.site/Estudos-2023-246a0aacfbc740fc9ba274d46572991c"> aqui </a>
 </p>
 
 <p>
-    Na minha carreira estou atuando como Desenvolvedor Júnior na Ipê Digital, onde trabalho num SaaS para gestão de ótica utilizando Laravel e Vue.JS
+    Na minha carreira estou atuando como Desenvolvedor Júnior no PicPay no time de P2P e Pix, onde trabalho com microsserviços, arquitetura hexagonal e HyperF(Swoole/PHP) e Laravel
 </p>
 </div>
 <h3> Fale comigo: </h3>
