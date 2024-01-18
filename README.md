@@ -18,7 +18,7 @@
             Univesidade: Ciência da Computação - Universidade Paulista
         </li>
         <li>
-            Dev Júnior na 
+            Mid PHP Software Developer - 
             <a href="https://www.linkedin.com/company/picpay/">PicPay</a>
         </li>
     <ul>
