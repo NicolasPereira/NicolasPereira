@@ -1,6 +1,6 @@
 <div align="center">
     <h3>Hi, I'm Nicolas 👋<h3>
-    <h3> FullStack Developer</h3>
+    <h3> Back-end Developer</h3>
 </div>
     <h2> Sobre mim: </h2>
 <div>
@@ -30,7 +30,7 @@
 </p>
 
 <p>
-    Na minha carreira estou atuando como Desenvolvedor Júnior no PicPay no time de P2P e Pix, onde trabalho com microsserviços, arquitetura hexagonal e HyperF(Swoole/PHP) e Laravel
+    Na minha carreira estou atuando como Desenvolvedor Pleno no PicPay no time de Transacional Transferência de Pessoas Fisícas, onde trabalho com microsserviços, arquitetura hexagonal e HyperF(Swoole/PHP) e Laravel no contexto de TED, PIX Cashin, Pix Cashout e P2P
 </p>
 </div>
 <h3> Fale comigo: </h3>
