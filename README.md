@@ -20,9 +20,3 @@ With a strong background in payment systems and fintech, I excel at documenting 
 
 ## 🚀 Let’s Work Together!
 I'm always open to collaborations and new opportunities. Feel free to reach out!
-
-## 📊 My GitHub Profile Metrics
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=NicolasPereira&show_icons=true&theme=radical" alt="Nicolas's GitHub Stats" style="width: 48%; min-width: 300px;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasPereira&layout=compact&theme=radical" alt="Top Languages" style="width: 48%; min-width: 300px; margin-left: 10px;"/>
-</div>
