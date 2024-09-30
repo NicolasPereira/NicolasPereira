@@ -1,55 +1,28 @@
-<div align="center">
-    <h3>Hi, I'm Nicolas 👋<h3>
-    <h3> Back-end Developer</h3>
-</div>
-    <h2> Sobre mim: </h2>
-<div>
-    <ul>
-        <li>
-            Nome: Nicolas Pereira
-        </li>
-        <li>
-            Idade: 23
-        </li>
-        <li>
-            Localização: São José dos Campos, Brazil
-        </li>
-        <li>
-            Univesidade: Ciência da Computação - Universidade Paulista
-        </li>
-        <li>
-            Mid PHP Software Developer - 
-            <a href="https://www.linkedin.com/company/picpay/">PicPay</a>
-        </li>
-    <ul>
-</div>
-<h2> O que estou fazendo no momento? </h2>
-<div>
-<p>
-    Para o ano de 2023 estou estudando os seguintes tópicos: Docker e Kubernets, Banco de Dados NoSQL e Mensageria. Você pode ver meu plano de estudos  <a target='_blank' href="https://nicolaspereirajs.notion.site/Estudos-2023-246a0aacfbc740fc9ba274d46572991c"> aqui </a>
-</p>
+# 👋 Hi, I'm Nicolas Pereira!
 
-<p>
-    Na minha carreira estou atuando como Desenvolvedor Pleno no PicPay no time de Transacional Transferência de Pessoas Fisícas, onde trabalho com microsserviços, arquitetura hexagonal e HyperF(Swoole/PHP) e Laravel no contexto de TED, PIX Cashin, Pix Cashout e P2P
-</p>
-</div>
-<h3> Fale comigo: </h3>
-<div align="center">
-    <a target='_blank' href="https://www.linkedin.com/in/nicolas-pereira/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a target='_blank' href="https://twitch.tv/nicolaspereiradev">
-        <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
-    </a>
-    <a target='_blank' href="https://twitter.com/devnic_">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-    </a>
-</div>
-<h3 align="left">Tecnologias:</h3>
-<div align="center">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="html5"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="vue.js"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind-css"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql">
-</div>
+## 📄 About Me
+I am a back-end software developer with 4 years of experience specializing in PHP, Laravel, Swoole, Docker, and Node.js. Currently at PicPay, I contribute to PIX and P2P payment projects, focusing on implementing new features and maintaining microservices to enhance system efficiency. The PIX is the primary payment method in Brazil, and in my current role, I handle a high volume of approximately 20,000 transactions per minute.
 
-[![card](https://github-readme-stats.vercel.app/api?username=nicolaspereira&theme=tokyonight)](https://github.com/nicolaspereira/)
+With a strong background in payment systems and fintech, I excel at documenting development processes, assisting in architectural decisions, and collaborating effectively with product teams. I am eager to embrace new challenges in the fintech domain and am actively seeking a mid-level back-end developer position. I am committed to continuously updating my skills to improve the quality and efficiency of my work.
 
-[![nicolaspereira](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaspereira&hide=html&layout=compact&theme=tokyonight)](https://github.com/nicolaspereira/)
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolas%20Pereira-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nicolas-pereira/)
+
+## 🛠️ Hard Skills
+- **Programming Languages:** PHP, Node.js, Java
+- **Frameworks:** Laravel, HyperF, Swoole, Spring
+- **Containerization:** Docker
+- **Testing:** Unit Testing, Integration Testing, Load Testing
+- **Architectures:** Microservices, Hexagonal Architecture, Clean Architecture, Modular Monolith, Monolithic Architecture
+- **Messaging Systems:** Kafka, RabbitMQ, SNS, SQS
+- **Cloud Services:** AWS
+- **Observability:** New Relic, DynaTrace, Grafana, Jaeger, OpenSearch, o11y, OpenTelemetry
+
+## 🚀 Let’s Work Together!
+I'm always open to collaborations and new opportunities. Feel free to reach out!
+
+## 📊 My GitHub Profile Metrics
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=NicolasPereira&show_icons=true&theme=radical" alt="Nicolas's GitHub Stats" style="width: 48%; min-width: 300px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasPereira&layout=compact&theme=radical" alt="Top Languages" style="width: 48%; min-width: 300px; margin-left: 10px;"/>
+</div>
